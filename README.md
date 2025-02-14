@@ -9,16 +9,20 @@ This GitHub repository is your one-stop shop for exploring Omni, a revolutionary
 * **Code:** We've openly shared the codebase behind Omni, allowing you to delve into its inner workings and contribute to its development.
 * **Synthetic Data:** Explore the synthetic contextual data we used to train Omni, providing a foundation for understanding real-world scenarios.
 * **Kaggle Links:** Access the code and datasets used in Omni's development on Kaggle for further exploration:
-    * Code: [Click Here!]([https://github.com/resources/articles/ai](https://www.kaggle.com/code/rtarun/introducing-omni-truly-personal-agi))
+    * Code: [Click Here!](https://www.kaggle.com/code/rtarun/introducing-omni-truly-personal-agi)
     * Synthetic Data: [Click Here!](https://www.kaggle.com/datasets/rtarun/synthetic-contextual-data)
     * Depth Pro Model: [Click Here!](https://www.kaggle.com/models/rtarun/depth_pro/PyTorch/01/1)
 
-**Meet the Creator:**
+**Meet the Team:**
 
 * **Tarun Reddi (Teen Different):** You can find out more about the creator of Omni through the following links:
     * Portfolio: [https://redditarun.github.io/](https://redditarun.github.io/)
     * Medium Blogs: [Check out!](https://medium.com/@teendifferent)
 
+* **Charvi Kusuma:** You can find out more about the creator of Omni through the following links:
+    * Portfolio: [https://kcharvi.github.io/](https://kcharvi.github.io/)
+    * LinkedIn: [https://www.linkedin.com/in/k-charvi/](https://www.linkedin.com/in/k-charvi/)
+      
 **Experience Omni in Action:**
 
 * **YouTube Video:** Witness Omni in action through this informative video: [Check here!](https://youtu.be/8_s5sz2eVb4)
